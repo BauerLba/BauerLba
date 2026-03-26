@@ -1,10 +1,12 @@
-# Hey 👋 I'm Lukas
+Hi, I'm Lukas 👋
+Software Developer (Apprenticeship) · Bavaria, Germany
+Graduating 2026 · Looking for Backend / Application Developer roles in Leipzig
 
-### Full Stack Developer
+🧑‍💻 About Me
+I'm 19 years old and finishing my apprenticeship as a software developer (Fachinformatiker für Anwendungsentwicklung) at BHS Corrugated in Bavaria. My focus is clean, well-structured backend code — Clean Architecture, testable systems, maintainable solutions.
 
-I work at the intersection of software and industrial hardware, building apps by night and running a digital printer that handles **2.80m-wide paper rolls** by day, which are then processed into paperboard by a corrugating machine.
-
-🐍 Currently learning **Python**
+Alongside my apprenticeship, I'm taking on my first freelance project: building an internal training portal for a company of ~80 employees.
+After graduating, I'm relocating to Leipzig to join a team where I can keep growing — ideally with a modern .NET stack.
 
 ---
 
