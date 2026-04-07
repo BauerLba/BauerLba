@@ -5,7 +5,7 @@ Graduating 2026 · Looking for Backend / Application Developer roles
 🧑‍💻 About Me
 I'm 19 years old and finishing my apprenticeship as a software developer (Fachinformatiker für Anwendungsentwicklung) at BHS Corrugated in Bavaria. My focus is clean, well-structured backend code with Clean Architecture, testable systems, maintainable solutions.
 
-Alongside my apprenticeship, I'm taking on my first freelance project: building an internal training portal for a company of ~80 employees.
+Alongside my apprenticeship, I'm taking on my first freelance project: building an internal training portal for a company of ~100 employees.
 
 ---
 
